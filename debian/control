@@ -4,17 +4,19 @@ Priority: optional
 Maintainer: Manolis Agkopian <m.agkopian@gmail.com>
 Build-Depends: debhelper (>= 9),
                cmake (>= 3.1),
-               qtbase5-dev (>= 5.2),
-               qttools5-dev (>= 5.2),
-               qttools5-dev-tools (>= 5.2),
-               libgcrypt20-dev (>= 1.6),
+               qtbase5-dev (>= 5.3),
+               qttools5-dev (>= 5.3),
+               qttools5-dev-tools (>= 5.3),
+               libgcrypt20-dev (>= 1.7),
+               libargon2-0-dev,
                zlib1g-dev,
-               libmicrohttpd-dev,
                libxi-dev,
                libxtst-dev,
                libqt5x11extras5-dev,
-               libyubikey-dev,
-               libykpers-1-dev
+               libyubikey-dev (>= 1.13),
+               libykpers-1-dev,
+               libsodium-dev,
+               libcurl4-openssl-dev
 Standards-Version: 3.9.8
 Homepage: https://keepassxc.org/
 Vcs-Git: https://github.com/keepassxreboot/keepassxc.git

@@ -1,3 +1,34 @@
+keepassxc (2.3.0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Wed, 28 Feb 2018 22:58:38 +0200
+
+keepassxc (2.2.4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Wed, 13 Dec 2017 23:51:45 +0200
+
+keepassxc (2.2.3-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Tue, 12 Dec 2017 17:13:29 +0200
+
+keepassxc (2.2.2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Sun, 22 Oct 2017 03:03:08 +0300
+
+keepassxc (2.2.1-1) unstable; urgency=low
+
+  * New upstream release
+  * Removed libmicrohttpd-dev from the build dependecies
+
+ -- Manolis Agkopian <m.agkopian@gmail.com>  Sun, 01 Oct 2017 18:18:49 +0300
+
 keepassxc (2.2.0-1) unstable; urgency=low
 
   * New upstream release
